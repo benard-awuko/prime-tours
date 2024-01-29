@@ -1,0 +1,2 @@
+2024/01/29 12:04:36 [error] 11004#10412: *1 directory index of "C:/Users/PRIME SAFARIS/Local Sites/prime-tours/app/public/" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.0", host: "prime-tours.local"
+2024/01/29 12:05:51 [error] 11004#10412: *3 directory index of "C:/Users/PRIME SAFARIS/Local Sites/prime-tours/app/public/" is forbidden, client: ::1, server: , request: "GET / HTTP/1.1", host: "localhost:10004"
